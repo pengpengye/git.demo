@@ -2,5 +2,12 @@ div{
     width:100px;
     height:100px;
     background-color:rgb(39, 223, 22);
-    
+}   
+*{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+div{
+    background-color: green;
 }
